@@ -24,5 +24,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "YourProjectName"
+rootProject.name = "Endure"
 include(":app")

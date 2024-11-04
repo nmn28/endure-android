@@ -1,4 +1,4 @@
-package com.example.phettl
+package com.example.endure
 
 import org.junit.Test
 
