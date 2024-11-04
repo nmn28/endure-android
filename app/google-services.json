@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971410139554",
+    "project_id": "endure-5271d",
+    "storage_bucket": "endure-5271d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971410139554:android:6c2cb8aef67f7039492afb",
+        "android_client_info": {
+          "package_name": "com.example.endure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wOYhDztgc5uHvIehrZTJM6U5_ad3EvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
